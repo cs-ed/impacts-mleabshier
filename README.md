@@ -8,9 +8,9 @@ Describe your course including the name, description, and grade level. Broadly e
 
 Students will be able to identify and name positive and negative impacts of computing in society including harm/health and inclusivity.
 
-Students will create a rubric with which their own class' designs will be assessed.
+Students will critique their own work and the work of others in light of the above topics.
 
-Students will compare and contrast classmates proposals in light of the class rubric, and will reflect on their own designs to make them both inclusive and a positive impact in the world.
+Students will create projects that adhere to positive world impacts.
 
 ### Learning Activities
 
@@ -31,6 +31,7 @@ After each project the students create, they will be encouraged to rate themselv
 Students' progress toward the goals will be graded in a few different ways.  They will be given a test/quiz grade based on the assessment, to make sure that everyone understood the general foundation of impact goals for the class.
 
 For the creation of the rubric, students will not be graded, but different ways to encourage full participation will be employed.  Using think-pair-share, more students will be able to share suggestions, even if many of them have the same ideas within their pairs.  Random name drawing could also be employed to get more students talking.  Some lower level topics, such as saying a complement or criticism of another students suggestion could be an easy way for a student to participate, even if they can't think of new ideas to add to the rubric.
+
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
