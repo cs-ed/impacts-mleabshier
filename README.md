@@ -6,7 +6,9 @@ Describe your course including the name, description, and grade level. Broadly e
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+Students will be able to identify and name positive and negative impacts of computing in society.
+Students will create a rubric with which their own class' designs will be assessed.
+Students will compare and contrast classmates proposals in light of the class rubric, and will reflect on their own creations to make 
 
 ### Learning Activities
 
