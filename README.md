@@ -14,8 +14,6 @@
 
 ### Learning Activities
 
-**Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?**
-
 After learning about inclusivity, direct harms (like cyberbullying) and indirect harms (like incentivizig addictions) students will take an assessment as needed asking them to identify some of the positive and negative types of influences from computing.
 
 Students will work together through research and class discussion to create a rubric of ideals that each student will be able to reference as they create or design projects.  This rubric will serve to allow students to self-reflect on their own work, and provide a set of central values that the class holds regarding inclusivity and impacts of what computer scientists do.  
