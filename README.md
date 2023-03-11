@@ -6,11 +6,11 @@
 
 ### Learning Objectives
 
-Students will be able to identify and name positive and negative impacts of computing in society including harm/health and inclusivity.
+* Students will be able to identify and name positive and negative impacts of computing in society including harm/health and inclusivity.
 
-Students will critique their own work and the work of others in light of the above topics.
+* Students will critique their own work and the work of others in light of the above topics.
 
-Students will create projects that adhere to positive world impacts.
+* Students will create projects that adhere to positive world impacts.
 
 ### Learning Activities
 
