@@ -1,6 +1,6 @@
 # Impacts on Society
 
-**My course, Computer Science, is a high school 9-12th grade computer science course where students learn coding in Java and principles of computer science. This document is going to detail 3 aspects of my course that will help students become self-evaluative regarding the helps and harms of computer science projects.  The first is learning about them and taking an assessment.  The second is creating a class rubric that can be used to score apps and projects for their impact on society.  The third is using that rubric to score popular apps and games and also to self-evaluate each project they create before they submit it.**
+**My course, Computer Science, is a high school 9-12th grade computer science course where students learn coding in Java and principles of computer science. This document is going to detail 3 aspects of my course that will help students become self-evaluative regarding the helps and harms of computer science projects.  The first is learning about the different types of impacts and concepts related to diversity and inclusion and then taking an assessment over them.  The second is creating a class rubric that can be used to score apps and projects for their impact on society.  The third is using that rubric to score popular apps and games and also to self-evaluate each project they create before they submit it.**
 
 
 ## Plan
